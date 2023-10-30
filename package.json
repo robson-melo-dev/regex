@@ -1,0 +1,29 @@
+{
+  
+  "homepage": "https://github.com/robson-melo-dev/regex",
+  "name": "regex-common",
+  "version": "1.0.2",
+  "description": "Introducing regex-common, the go-to npm package for all your regular expression needs. Simplify your development workflow with pre-built, tested, and highly customizable regex patterns. Say goodbye to regex headaches and hello to cleaner, more efficient code.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "regex",
+    "regexp",
+    "regular expression",
+    "regular",
+    "expression",
+    "regex-common",
+    "common regex"
+  ],
+  "author": "Robson Melo de Souza <sys.robson@gmail.com> (https://robson-melo-dev.github.io/new-portfolio/)",
+  "license": "(MIT OR Apache-2.0)",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/robson-melo-dev/regex.git"
+  },
+  "bugs": {
+    "url": "https://github.com/robson-melo-dev/regex/issues"
+  }
+}
